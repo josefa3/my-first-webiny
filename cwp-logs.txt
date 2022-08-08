@@ -1,0 +1,1 @@
+Error: ENOENT: no such file or directory, open '/home/josefa3/my-new-project/webiny-blog-backend/.yarnrc.yml'
